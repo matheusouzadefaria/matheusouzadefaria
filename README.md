@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Matheus SOuza
+- 👋 Hi, I’m Matheus Souza
 - 👀 I’m interested in Employment opportunity
 - 🌱 I’m currently learning Coding at Etec-Martinho di Cieiro
 
